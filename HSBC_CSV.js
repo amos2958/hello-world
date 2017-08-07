@@ -5,7 +5,7 @@ Copyright: Benjie Gillam (2012)
 License: WTFPL v2.0 ( http://en.wikipedia.org/wiki/WTFPL )
 Instructions:
 Add the following bookmarklet to your browser:
-javascript:(function(s)%7Bvar%20e%3Ddocument.createElement('script')%3Be.src%3Ds%3Bdocument.head.appendChild(e)%3B%7D)('https%3A%2F%2Fraw.github.com%2Fgist%2F2157849%2FHSBC.js')
+javascript:(function(s)%7Bvar%20e%3Ddocument.createElement('script')%3Be.src%3Ds%3Bdocument.head.appendChild(e)%3B%7D)('https%3A%2F%2Fraw.githubusercontent.com%2Famos2958%2Fhello-world%2Fmaster%2FHSBC_CSV.js')
 Open this bookmarklet when you are looking at a previous statement or recent
 transactions in HSBC personal online banking and it will bring up a CSV copy of
 your transactions from that statement/list that you can copy to your clipboard
